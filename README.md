@@ -7,3 +7,5 @@ Toward a philosophy of coding
 
 "Since designing a system is the most powerful way a team bonds, how do you engender that same feeling in new hires, even after a system has been designed? You must explain to new hires why a system works a certain way, not just how. Describe how the design evolved in the past, the decisions that were made, and wrong paths that were chosen."
 - http://www.philipotoole.com/shared-code-base-not-software-team-make/
+
+Keep project-core teams as small as possible because of Brook's Law (communication costs scale as _N_ (_N_+1)/2 where _N_ is the number of programmers). See [Eric S. Raymond's "The Cathedral and the Bazaar".](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s05.html)
