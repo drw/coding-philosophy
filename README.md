@@ -11,4 +11,4 @@ Toward a philosophy of coding
 Keep project-core teams as small as possible because of Brook's Law (communication costs scale as _N_ (_N_+1)/2 where _N_ is the number of programmers). See [Eric S. Raymond's "The Cathedral and the Bazaar".](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s05.html)
 
 ## Metaphilosophy
-_Nullius in verba_: We endeavor to not take anybody else's word on how things should be done. The quotes below have been chosen since they back up and describe our own experience, except where noted.
+_Nullius in verba_: We endeavor to not take anybody else's word on how things should be done. The quotes above have been chosen since they back up and describe our own experience, except where noted.
