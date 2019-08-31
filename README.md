@@ -10,5 +10,7 @@ Toward a philosophy of coding
 
 Keep project-core teams as small as possible because of Brook's Law (communication costs scale as _N_ (_N_+1)/2 where _N_ is the number of programmers). See [Eric S. Raymond's "The Cathedral and the Bazaar".](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s05.html)
 
+"Given the right ingredients, a good team will self-organize [...]. The only thing that imposing a methodology on a team does, in the best case, is remove some of the time/effort that it would take the team to cohere and find a stable state around their own set of processes, built up from first principles; it eliminates a sort of wheel-reinvention, but at the cost of possibly not discovering anything better for that specific project or problem space." - https://www.metafilter.com/182719/The-End-of-Agile#7770311
+
 ## Metaphilosophy
 _Nullius in verba_: We endeavor to not take anybody else's word on how things should be done. The quotes above have been chosen since they back up and describe our own experience, except where noted.
